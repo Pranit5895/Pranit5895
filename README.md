@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Pyhton, Java and Web Development 
 - 👯 I’m looking to collaborate on any project related to C++ or C Language. 
 - 📫 How to reach me [Pranit Gupta](https://www.linkedin.com/in/pranit-gupta-803233190/)<br>
-<a href="https://discord.gg/jWK7Vnk%22%3E
+<a href="https://discord.gg/jWK7Vnk%22%3E">
   <img align="left" alt="=Discord Server" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a><br>
 <a href="https://www.instagram.com/pranit0401/%22%3E">
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 </a>
 <a href="https://www.linkedin.com/in/pranit-gupta-803233190/%22%3E">
   <img align="left" alt="Pranit's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+</a><br>
 
 
 <details>

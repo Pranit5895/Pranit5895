@@ -19,6 +19,8 @@ Hey, I'm Pranit Gupta, a student Pursuing Bachelors in Computer Science from [Un
 ## 📈 **Github Stats:**
 <img align="left" width=45% height=220px src="https://github-readme-stats.vercel.app/api?username=Pranit5895&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"><img display="inline" width=45% height=200px src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Pranit5895&layout=compact&theme=blue-green">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ansh8tu&label=Profile%20views&color=0e75b6&style=flat" alt="ansh8tu" /> </p>
+
 ## 🛠️ **Languages & Tools:**
 
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>

@@ -18,15 +18,15 @@ Hey, I'm Pranit Gupta, a student Pursuing Bachelors in Computer Science from [Un
 
 ><h3 align="left">Talking about my GitHub stats, here we go : </h3>
 >
->![Anshuman's GitHub stats](https://github-readme-stats.vercel.app/api?username=ansh8tu&theme=midnight-purple&show_icons=true) 
+>![Pranit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pranit5895&theme=midnight-purple&show_icons=true) 
 
 ><h3 align="left">Most used Languages, learning some languages which will be reflected here in future, here we go, </h3>
 >
->[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ansh8tu&theme=midnight-purple&layout=compact)](https://github.com/ansh8tu/github-readme-stats)
+>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranit5895&theme=midnight-purple&layout=compact)](https://github.com/Pranit5895/github-readme-stats)
 
 ><h3 align="left">Current Streaks : </h3>
 >
-><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ansh8tu&theme=midnight-purple" /></p>
+><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Pranit5895&theme=midnight-purple" /></p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Pranit5895&label=Profile%20views&color=0e75b6&style=flat" alt="Pranit5895" /> </p>

@@ -31,6 +31,7 @@ Hey, I'm Pranit Gupta, a student Pursuing Bachelors in Computer Science from [Un
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Pranit5895&label=Profile%20views&color=0e75b6&style=flat" alt="Pranit5895" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Pranit5895" alt="Pranit5895" /></a> </p>
+<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
 
 ## 🛠️ **Languages & Tools:**
 

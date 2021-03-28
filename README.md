@@ -4,7 +4,7 @@ Hey, I'm Pranit Gupta, a student Pursuing Bachelors in Computer Science from [Un
 
 - 🔭 Try to explore different Algorithms and Problems which are challenging. 
 - 🌱 I’m currently learning Pyhton, Java and Web Development. 
-- 👯 I’m looking to collaborate on any project related to C++ or C Language. 
+- 👯 I’m looking to collaborate on any project related to C++, C and Java Language. 
 - 📫 How to reach me [Pranit Gupta](https://www.linkedin.com/in/pranit-gupta-803233190/)<br>
 <a href="https://discord.gg/jWK7Vnk%22%3E">
   <img align="left" alt="=Discord Server" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />

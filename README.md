@@ -20,7 +20,7 @@ Hey, I'm Pranit Gupta, a student Pursuing Bachelors in Computer Science from [Un
 >
 >![Pranit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pranit5895&theme=midnight-purple&show_icons=true) 
 
-><h3 align="left">Most used Languages, learning some languages which will be reflected here in future, here we go, </h3>
+><h3 align="left">Most used Languages, learning some languages which will be reflected here in future, </h3>
 >
 >[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranit5895&theme=midnight-purple&layout=compact)](https://github.com/Pranit5895/github-readme-stats)
 

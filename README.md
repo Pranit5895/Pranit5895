@@ -3,7 +3,7 @@
 Hey, I'm Pranit Gupta, a student Pursuing Bachelors in Computer Science from [University of Petroleum and Energy Studies, Dehradun](https://www.upes.ac.in/).<br>
 
 - 🔭 Try to explore different Algorithms and Problems which are challenging. 
-- 🌱 I’m currently learning Pyhton, Java and Web Development. 
+- 🌱 I’m currently learning Python, Java, Web Development and Docker(Deploying Tool).
 - 👯 I’m looking to collaborate on any project related to C++, C and Java Language. 
 - 📫 How to reach me [Pranit Gupta](https://www.linkedin.com/in/pranit-gupta-803233190/)<br>
 <a href="https://discord.gg/jWK7Vnk%22%3E">
